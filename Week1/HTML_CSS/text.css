@@ -1,0 +1,30 @@
+/* element selector */
+
+div{    
+    text-align: center;
+  
+}
+
+/* ID selector */
+
+#myheading2{
+    color:blueviolet
+}
+
+/* class Selector */
+.paragraphTag{
+    color:green
+}
+
+/* Universel Selector */
+
+*{
+    background:rgb(223, 129, 129);
+}
+
+/* Group Selector */
+
+#myheading3,.paragraphTag,a{
+    font-size: 30px;
+    font-weight: bold;
+}

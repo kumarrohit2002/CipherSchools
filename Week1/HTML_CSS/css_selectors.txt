@@ -1,0 +1,5 @@
+1. Simple Selector
+2. Combinator Selector
+3. pseudo-class selector
+4. pseudo-element selector
+5. Attribute selector
