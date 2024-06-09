@@ -3,3 +3,10 @@
 3. pseudo-class selector
 4. pseudo-element selector
 5. Attribute selector
+
+
+For Combinator Selector:
+1.Decendent Selector
+2.Child Selector
+3.Adjecent sibling Selector
+4.General sibling Selector

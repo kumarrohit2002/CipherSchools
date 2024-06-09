@@ -28,3 +28,41 @@ div{
     font-size: 30px;
     font-weight: bold;
 }
+
+/* For Combinator Selector: */
+/* 1.Decendent Selector */
+div h3{
+    background-color: yellow;
+}
+
+/* 2.Child Selector */
+div>h4{
+    background-color: cyan;
+}
+
+/* 3.Adjecent sibling Selector */
+h1+p{
+    background-color: rgb(31, 87, 190);
+}
+
+/* 4.General sibling Selector */
+
+div~p{
+    background-color: goldenrod;
+}
+
+
+/* 3. Pseudo-class selector */
+ul>li:hover{
+    background-color: red;
+}
+
+/* 4. pseudo-element selector */
+ol>li::first-letter{
+    color: rgb(31, 87, 190);
+}
+
+/* 5. Attribute selector */
+a[target]{
+    background-color: rgb(40, 206, 40);
+}
