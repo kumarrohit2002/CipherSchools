@@ -1,0 +1,7 @@
+in this lecture I have installed nodejs
+
+
+
+for install cmd-> npm install -g npm
+for create react app cmd-> npm -g i create-react-app
+
