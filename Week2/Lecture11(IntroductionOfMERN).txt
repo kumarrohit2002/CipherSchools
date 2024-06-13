@@ -1,0 +1,9 @@
+MERN Stack
+The MERN stack is a popular set of technologies used for building full-stack web applications. The acronym MERN stands for:
+
+MongoDB: A NoSQL database known for its flexibility and scalability, which stores data in JSON-like documents.
+Express.js: A web application framework for Node.js, designed for building web applications and APIs.
+React: A JavaScript library developed by Facebook, used for building user interfaces, particularly single-page applications.
+Node.js: A JavaScript runtime built on Chrome's V8 engine, which allows JavaScript to be used for server-side scripting.
+
+
