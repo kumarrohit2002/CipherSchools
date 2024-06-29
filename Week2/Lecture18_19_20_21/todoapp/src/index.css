@@ -19,5 +19,15 @@ code {
 }
 
 .btn-addTask{
-  margin-left: 120px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+
+.cardContainer{
+  display: flex;
+  justify-content: center;
+}
+
+section{
+  padding:3vh 0;
 }

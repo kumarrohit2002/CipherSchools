@@ -1,8 +1,8 @@
-import logo from './logo.svg';
+
 import './App.css';
 import ToDoScreen from './screens/ToDoScreen';
 
-function App() {
+function App(){
   return (
     <div>
       <ToDoScreen/>
